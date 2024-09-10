@@ -25137,3 +25137,23 @@ dl li {
   height: 89vh;
 }
 /*# sourceMappingURL=maps/style.css.map */
+/* button  */
+.generatingpdf{
+  width: 100px;
+background-color: #0198e8;
+border-radius: 5px;
+
+
+}
+.button-pdf{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+.remove{
+  width: 100px;
+  background-color: #0198e8;
+  border-radius: 5px;
+  
+
+}
